@@ -52,7 +52,7 @@ For this exercise you will be working with the `setTimeout()` function in JavaSc
 
 # Images In Time
 
-For this exercise you will add a random image to the page every 2.5 seconds using the `setTimeout()` function in JavaScript. This would be easier with `setInterval()` but what fun would easy be? Don't worry, we have included some hints in `exercise07.js`
+For this exercise you will add a random image to the page every 2.5 seconds using the `setTimeout()` function in JavaScript. This would be easier with `setInterval()` but what fun would that be? Don't worry, we have included some hints in `exercise07.js`
 
 ## Example Output
 ![example](./06-images-in-time/example2.gif)
