@@ -1,5 +1,3 @@
-(function(){
-
 
 /** 
  * Use javascript to target update the contents of the heading with the id of title in index.html
@@ -15,5 +13,4 @@
 
 //your code here
 
-})();
     

@@ -1,7 +1,4 @@
-(function () {
-
-
-  /**
+ /**
    * Use the built in function setTimeout to add a random image to the page every 2.5 seconds.
    * The function setInterval would be easier but figuring out how to do this with setTimeout is
    * more rewarding. Good luck and remember to google all the things.
@@ -31,5 +28,3 @@
   }
 
   //your code here
-
-})();
