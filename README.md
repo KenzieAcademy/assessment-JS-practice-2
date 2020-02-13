@@ -41,18 +41,18 @@ We are using JavaScript to display some cool art in our HTML page but something 
 ## Example Output
 `writeAscii()` should update the attached index.html page so that the ascii art of the dollar bill is no longer scrambled. It should look like this:
 
-![example](./04-ascii-art-lol/example.png)
+![example](https://i.imgur.com/XAoGYrf.png)
 
 # setTimeout
 
 For this exercise you will be working with the `setTimeout()` function in JavaScript. Your task is to update some text in the HTML file 3 seconds after the page has loaded. See `exercise06.js` for all the details.
 
 ## Example Output
-![example](./05-set-timeout/example3.gif)
+![example](https://i.imgur.com/zy6Ptod.gif)
 
 # Images In Time
 
 For this exercise you will add a random image to the page every 2.5 seconds using the `setTimeout()` function in JavaScript. This would be easier with `setInterval()` but what fun would that be? Don't worry, we have included some hints in `exercise07.js`
 
 ## Example Output
-![example](./06-images-in-time/example2.gif)
+![example](https://i.imgur.com/JORsEKj.gif)
