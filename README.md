@@ -48,7 +48,7 @@ We are using JavaScript to display some cool art in our HTML page but something 
 For this exercise you will be working with the `setTimeout()` function in JavaScript. Your task is to update some text in the HTML file 3 seconds after the page has loaded. See `exercise06.js` for all the details.
 
 ## Example Output
-![example](./05-set-timeout/example.gif)
+![example](./05-set-timeout/example3.gif)
 
 # Images In Time
 
