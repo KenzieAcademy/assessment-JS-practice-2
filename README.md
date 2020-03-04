@@ -1,6 +1,6 @@
 This assessment will test your knowledge of variables, conditionals, functions, arrays, and loops. Fork and clone the following starter repo and get started solving some problems with JavaScript!
 
-*Starter Repo*: [https://gitlab.com/kenzie-academy/se/fe/js-basics](https://gitlab.com/kenzie-academy/se/fe/js-basics)
+*Starter Repo*: [https://github.com/KenzieAcademy/assessment-JS-practice-2](https://github.com/KenzieAcademy/assessment-JS-practice-2)
 
 
 # Fizz Buzz
